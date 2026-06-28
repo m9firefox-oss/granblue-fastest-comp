@@ -1,0 +1,1 @@
+# granblue-fastest-comp
