@@ -141,4 +141,3 @@ Use strict OOP principles:
 - use NFC normalization for filenames
 Generate code following this architecture.
 ```
-
