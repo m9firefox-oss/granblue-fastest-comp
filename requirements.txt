@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pillow
+requests
+beautifulsoup4
+python-multipart
+azure-cognitiveservices-vision-customvision
